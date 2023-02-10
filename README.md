@@ -15,7 +15,7 @@ GO MAMMA - taxi service for elderly people Travel services that are safe, reassu
 <div align="center">
    <img src="screen/screen-003.JPG" width="25%"> &nbsp; &nbsp;
    <img src="screen/screen-006.JPG" width="25%"> &nbsp; &nbsp;
-   <img src="screen/screen-007.JPG" width="28%" > &nbsp; &nbsp;
+   <img src="screen/screen-007.JPG" width="25%" > &nbsp; &nbsp;
 </div>
 
 ## Tool :
