@@ -26,6 +26,6 @@ GO MAMMA - taxi service for elderly people Travel services that are safe, reassu
 
 ## Download Application
 
-[Available for download in Google Playstore](https://facebook.github.io/create-react-app/docs/code-splitting)
+[Available for download in Google Playstore](https://play.google.com/store/apps/details?id=com.doublem.gomamma&hl=th&gl=US)
 
-[Available for download in Apple Store.](https://facebook.github.io/create-react-app/docs/code-splitting)
+[Available for download in Apple Store.](https://apps.apple.com/th/app/go-mamma/id1633033336)
